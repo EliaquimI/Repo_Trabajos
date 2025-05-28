@@ -23,12 +23,6 @@ public class Estudiante {
         promedio = suma / 5;
         return promedio;
     }
-    public boolean aprobado(){
-        calcularPromedio();
-        if (calcularPromedio() > 7) {
-            
-            
-        }
-    }
+
     
 }
